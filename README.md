@@ -1,2 +1,2 @@
 # talend_cloud_projects
-Illustrating Talend Cloud with Talend 8
+Illustrating Talend Cloud with Talend 8 Studio
